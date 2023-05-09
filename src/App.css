@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: blueviolet;
+  background-color: rgba(86, 0, 245, 0.438)
+}
+
+h1{
+  text-align: center;
+
+}
+
+.btn{
+  background-color: rgb(204, 13, 204);
+}
